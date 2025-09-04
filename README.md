@@ -1,1 +1,1 @@
-# exercico_aula_java
+# exercicio_aula_java
